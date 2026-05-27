@@ -85,7 +85,7 @@ The custom trading environment follows the Gymnasium interface:
 
 ```powershell
 # Clone and enter the project
-git clone https://github.com/YOUR_USERNAME/drl-trading.git
+git clone https://github.com/Dev555sharma/drl-trading.git
 cd drl-trading
 
 # Create virtual environment
